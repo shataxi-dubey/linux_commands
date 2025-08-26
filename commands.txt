@@ -1,0 +1,7 @@
+To open terminal through keyboard shortcut: Ctrl + Alt + T
+
+To know about the OS release or the OS distribution
+
+cat /etc/os-release
+
+copy-paste in terminal: Ctrl + Shift + C and Ctrl + SHift + V
