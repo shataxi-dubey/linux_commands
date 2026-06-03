@@ -8,3 +8,5 @@ copy-paste in terminal: Ctrl + Shift + C and Ctrl + SHift + V
 
 To find out all the virtual environments
 find ~/practise -name "activate"
+
+lshw - it is used to get all the system details
